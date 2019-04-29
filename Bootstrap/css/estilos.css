@@ -1,0 +1,82 @@
+body{
+  background: #8C022C;
+  height: 100%;
+}
+
+header{
+  background-color: white;
+  width: 80%;
+  border: none;
+  margin-left: 10%;
+}
+
+.logo{
+  width: 300px;
+}
+
+.img-social{
+  width: 32px;
+  height: 32px;
+}
+
+#redes a img:hover{
+  filter: brightness(60%);
+}
+
+.navbar{
+  width: 100%;
+  margin-left: 0%;
+  background-color: #ff8a65;
+}
+.tab{
+  width: 14.9%;
+  clear: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h2{
+  font-family: 'Pacifico', cursive;
+}
+.container-fluid{
+  margin-top: 20px;
+  width: 80%;
+  background-color: white;
+}
+.img-foto img{
+  margin-top: 40px;
+
+}
+.img-busto img{
+  width: 60px;
+}
+#cont{
+  padding: 1%
+}
+#side-content{
+  background-color: White;
+  padding: 1%;
+}
+#buscador{
+  margin-top: 10px;
+}
+#buscador div button{
+  background-color: #bbdefb;
+}
+.list-group-item{
+  margin-bottom: 1px;
+}
+.list-group-item:hover{
+  background-color: #444;
+  color: white;
+}
+footer{
+  background-color: #343a40;
+  height: 60px
+}
+footer p{
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
